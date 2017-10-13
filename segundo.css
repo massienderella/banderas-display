@@ -1,0 +1,22 @@
+.yellow{
+	background-color: gold;
+	padding-bottom: 3em;
+	width: 200px;
+	height: 100px;
+}
+
+.grey{
+	background-color: grey;
+	padding-bottom: 3em;
+	width: 200px;
+	height: 100px;
+}
+
+h4,p {
+	padding-top: 5px;
+	padding-left: 5px;
+}
+
+p{
+	color: white;
+}
